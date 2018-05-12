@@ -1,0 +1,30 @@
+_repo: The-West-Indies-and-the-Spanish-Main_32809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rodway, James
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '36056'
+    url: http://www.gutenberg.org/2009/agents/36056
+description: This history of the West Indies makes special mention of Jewish life
+  in St. Eustatius.
+gutenberg_issued: '2010-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32809'
+  lccn: 02008504
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Indies -- History'
+- !lcc 'F1601'
+- !lcsh 'Spanish Main'
+- !lcsh 'Slavery -- West Indies'
+title: The West Indies and the Spanish Main
+url: http://www.gutenberg.org/ebooks/32809
