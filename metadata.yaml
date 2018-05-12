@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36056
 description: This history of the West Indies makes special mention of Jewish life
   in St. Eustatius.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32809#The-West-Indies-and-the-Spanish-Main
 gutenberg_issued: '2010-06-14'
 gutenberg_type: Text
 identifiers:
